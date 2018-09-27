@@ -27,4 +27,4 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 
 #### 22/11/19 [MaxBlesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
-#### 22/11/19 [PatriziaMassner](https://github.com/janosg) on [The NLSY Dataset](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
+#### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
