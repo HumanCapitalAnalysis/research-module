@@ -23,7 +23,7 @@ The core lectures are available [here](https://github.com/HumanCapitalEconomics/
 
 ## Guest Lectures
 
-I am very happy to welcome two guest lecturers who will provide brief presentations of their open source software projects.
+I am very happy to welcome two guest lecturers who will provide brief presentations about their research and the required skills.
 
 #### 22/11/19 [MaxBlesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
