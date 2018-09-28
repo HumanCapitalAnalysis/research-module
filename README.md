@@ -11,7 +11,7 @@ Please use the table of content to navigate the rest of the material.
 
 ### The Generalized Roy Model
 
-* Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
+* Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
 
 * Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part I: Causal models, structural models and econometric policy evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. J. Heckman & E. E. Leamer (Eds.), *Handbook of econometrics* (Vol. 6, pp. 4779–4874).
 
@@ -70,4 +70,4 @@ Please use the table of content to navigate the rest of the material.
 
 ## Iterations <a name="iterations"></a>
 
-* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalEconomics/research_seminar/blob/master/iterations/bonn_ws_2018/README.md) for details.
+* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research_seminar/blob/master/iterations/bonn_ws_2018/README.md) for details.
