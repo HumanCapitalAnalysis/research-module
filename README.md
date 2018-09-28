@@ -1,4 +1,4 @@
-# Research Seminar
+﻿# Research Seminar
 
 Traditionally economists have emphasized the role of cognitive ability for the formation of human capital. However, influential recent work has challenged that view and promoted a more nuanced picture whereby other skills and character traits – such as motivation and resilience – have a very important role to play. Human capital can hence be broadly defined to comprise every part of the human body and mind that affects economic decision-making or yields economic returns, including skills, personality, character traits and preferences. A recent strand of literature has focused on the formation of human capital and has documented that early-in-life interventions in this dimension may be effective policies to reduce later inequality. In the course, we will follow the development of this important debate and acquire the necessary skills in order to conduct our own research in the area.
 
@@ -11,7 +11,7 @@ Please use the table of content to navigate the rest of the material.
 
 ### The Generalized Roy Model
 
-* Eisenhauer, P. (2012). Issues in the economics and econometrics of policy evaluation. Retrieved from: https://github.com/policyMetrics/miscellaneous/blob/master/Eisenhauer.2012.pdf
+* Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
 
 * Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part I: Causal models, structural models and econometric policy evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. J. Heckman & E. E. Leamer (Eds.), *Handbook of econometrics* (Vol. 6, pp. 4779–4874).
 
@@ -26,7 +26,7 @@ Please use the table of content to navigate the rest of the material.
 
 * Bhuller, M., Mogstad, M., & Salvanes, K. G. (2017). [Life-cycle earnings, education premiums, and internal rates of return](https://brage.bibsys.no/xmlui/bitstream/handle/11250/196940/1/workingpaper.pdf). *Journal of Labor Economics*, 35(4), 993–1030.
 
-* Carneiro, P., & Heckman, J. J. (2002). [The evidence on credit constraints in post‐secondary schooling](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0297.00075). *The Economic Journal*, 112(482), 705-734.
+* Carneiro, P., & Heckman, J. J. (2002). [The evidence on credit constraints in post‐secondary schooling](http://www.princeton.edu/~moll/LCWG.pdf). *The Economic Journal*, 112(482), 705-734.
 
 * Cunha, F., Heckman, J., & Navarro, S. (2005). [Separating uncertainty from heterogeneity in life cycle earnings](https://pdfs.semanticscholar.org/6455/80be72234b6dda9e4fc17bae48e8db1b24f4.pdf). *Oxford Economic Papers*, 57(2), 191-261.
 
@@ -50,7 +50,7 @@ Please use the table of content to navigate the rest of the material.
 
  **Supporting Papers**
 
- * Blattman, C., Jamison, J. C., & Sheridan, M. (2017). [Reducing crime and violence: experimental evidence from cognitive behavioral therapy in Liberia](https://www.aeaweb.org/articles?id=10.1257/aer.20150503). *The American Economic Review*, 107(4), 1165-1206.
+ * Blattman, C., Jamison, J. C., & Sheridan, M. (2017). [Reducing crime and violence: experimental evidence from cognitive behavioral therapy in Liberia](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *The American Economic Review*, 107(4), 1165-1206.
 
  * Kosse, F., Deckers, T., Schildberg-Hörisch, H., & Falk, A. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://www.econstor.eu/bitstream/10419/142748/1/859937518.pdf). *SOEPpapers on Multidisciplinary Panel Data Research*, No. 840.
 
