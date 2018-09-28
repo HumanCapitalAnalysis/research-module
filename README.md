@@ -50,7 +50,7 @@ Please use the table of content to navigate the rest of the material.
 
  **Supporting Papers**
 
- * Blattman, C., Jamison, J. C., & Sheridan, M. (2017). [Reducing crime and violence: experimental evidence from cognitive behavioral therapy in Liberia](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *The American Economic Review*, 107(4), 1165-1206.
+ * Calero, C., Gonzales, V., Soares, Y., Kluve, J., & Corseuil, C. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics*, 45, 131-142.
 
  * Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://www.iame.uni-bonn.de/people/fabian-kosse/the-formation-of-prosociality-causal-evidence-on-the-role-of-the-social-environment). *Journal of Political Economy (forthcoming)*, DP-Version: HCEO Working Paper No. 2018-025.
 
