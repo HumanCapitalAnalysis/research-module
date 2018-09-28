@@ -62,7 +62,7 @@ Please use the table of content to navigate the rest of the material.
 
  * Pfeiffer, F., & Reuß, K. (2008). [Age-dependent skill formation and returns to education](https://www.sciencedirect.com/science/article/pii/S0927537108000365). *Labour Economics*, 15(4), 631-646.
 
-### Introduction to NLSY and & Data Analytics
+### Introduction to NLSY and Data Analytics
 
 * Zagorsky, J. L., & White, L. (1999). [NLSY79 user’s guide: A guide to the 1979–1998 National Longitudinal Survey of Youth data](https://www.bls.gov/nls/79guide/2001/nls79g0.pdf). US Department of Labor, Washington, DC.
 
