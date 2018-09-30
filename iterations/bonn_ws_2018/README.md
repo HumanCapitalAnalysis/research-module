@@ -1,9 +1,11 @@
 
-**Semester Start:** October 8th, 2018
+**Semester Start** October 8th, 2018
 
 We meet Thursdays between 16:15-17:45 in SR 0.042.
 
 **Lecturer** [Philipp Eisenhauer](https://peisenha.github.io/build/html/index.html)
+
+**Assistant** [Valerie Stottuth](https://github.com/vstottuth)
 
 ## Lecture Plan
 
