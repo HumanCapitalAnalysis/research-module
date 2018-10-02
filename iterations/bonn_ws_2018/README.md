@@ -34,3 +34,11 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 #### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
 ... to be elaborated
+
+
+## Student Presentations
+
+| Date       | Paper      | Name       | Link       |
+| ---------- | ---------- | ---------- | ---------- |
+|            |            |            |            |
+|            |            |            |            |
