@@ -37,3 +37,17 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 #### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
 ... to be elaborated
+
+
+## Student Presentations
+
+| Date     | Paper                                                                                                                      | Name       | Link       |
+| -------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| 07/01/19 | Life-Cycle Earnings, Education Premiums, and Internal Rates of Return                                                      |            |            |
+| 07/01/19 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
+| 10/01/19 | Separating uncertainty from heterogeneity in life cycle earnings                                                           |            |            |
+| 10/01/19 | Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments                     |            |            |
+| 14/01/19 | Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro |            |            |
+| 14/01/19 | The Formation of Prosociality: Causal Evidence on the Role of Social Environment                                           |            |            |
+| 17/01/19 | Age-dependent skill formation and returns to education                                                                     |            |            |
+| 17/01/19 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
