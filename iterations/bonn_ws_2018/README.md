@@ -39,14 +39,14 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 ... to be elaborated
 
 
-## Student Presentations
+## Presentation Schedule
 
-| Date     | Paper                                                                                                                      | Name       | Link       |
-| -------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| 18/10/18 | Life-Cycle Earnings, Education Premiums, and Internal Rates of Return                                                      |            |            |
-| 18/10/18 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
-| 25/10/18 | Separating uncertainty from heterogeneity in life cycle earnings                                                           |            |            |
-| 25/10/18 | Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments                     |            |            |
-| 08/11/18 | Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro |            |            |
-| 08/11/18 | The Formation of Prosociality: Causal Evidence on the Role of Social Environment                                           |            |            |
-| 15/11/18 | Age-dependent skill formation and returns to education                                                                     |            |            |
+| Date         | Speaker      | Paper        | 
+| ------------ | ------------ | ------------ |
+| **18/10/18** |              | Bhuller, M., Mogstad, M., & Salvanes, K. (2017). [Life-Cycle Earnings, Education Premiums, and Internal Rates of Return](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/692509). *Journal of Labor Economics*, 35(4), 993–1030. |
+|              |              | Carneiro, P., & Heckman, J. (2002). [The Evidence on Credit Constraints in Post‐Secondary Schooling](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0297.00075). *The Economic Journal*, 112(482), 705-734. |
+| **25/10/18** |              | Cunha, F., Heckman, J., & Navarro, S. (2005). [Separating uncertainty from heterogeneity in life cycle earnings](https://academic.oup.com/oep/article/57/2/191/2361921). *Oxford Economic Papers*, 57(2), 191-261. |
+|              |              | Eisenhauer, P., Heckman, J., & Mosso, S. (2015). [Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments](https://onlinelibrary.wiley.com/doi/pdf/10.1111/iere.12107). *International Economic Review*, 56(2), 331-357.stimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments |
+| **08/11/18** |              | Calero, C., Gonzales, V., Soares, Y., Kluve, J., & Corseuil, C. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics*, 45, 131-142. |
+|              |              | Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The Formation of Prosociality: Causal Evidence on the Role of Social Environment](https://www.iame.uni-bonn.de/people/fabian-kosse/the-formation-of-prosociality-causal-evidence-on-the-role-of-the-social-environment). *Journal of Political Economy (forthcoming)*, DP-Version: HCEO Working Paper No. 2018-025. |
+| **15/11/18** |              | Pfeiffer, F., & Reuß, K. (2008). [Age-dependent skill formation and returns to education](https://www.sciencedirect.com/science/article/pii/S0927537108000365). *Labour Economics*, 15(4), 631-646. |
