@@ -20,8 +20,11 @@ We meet Thursdays between 16:15-17:45 in SR 0.042.
 
 ## Lectures
 
-The core lectures are available [here](https://github.com/HumanCapitalEconomics/research_seminar/blob/master/README.md).
+The core lectures are available [here](https://github.com/HumanCapitalAnalysis/research_seminar/blob/master/README.md).
 
+#### [Course overview](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2018/00_course_outline.pdf)
+
+I briefly review some administrative issues regarding the course.
 
 ## Guest Lectures
 
