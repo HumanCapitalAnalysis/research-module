@@ -43,11 +43,10 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 
 | Date     | Paper                                                                                                                      | Name       | Link       |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| 07/01/19 | Life-Cycle Earnings, Education Premiums, and Internal Rates of Return                                                      |            |            |
-| 07/01/19 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
-| 10/01/19 | Separating uncertainty from heterogeneity in life cycle earnings                                                           |            |            |
-| 10/01/19 | Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments                     |            |            |
-| 14/01/19 | Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro |            |            |
-| 14/01/19 | The Formation of Prosociality: Causal Evidence on the Role of Social Environment                                           |            |            |
-| 17/01/19 | Age-dependent skill formation and returns to education                                                                     |            |            |
-| 17/01/19 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
+| 18/10/18 | Life-Cycle Earnings, Education Premiums, and Internal Rates of Return                                                      |            |            |
+| 18/10/18 | The Evidence on Credit Constraints in Post‐Secondary Schooling                                                             |            |            |
+| 25/10/18 | Separating uncertainty from heterogeneity in life cycle earnings                                                           |            |            |
+| 25/10/18 | Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments                     |            |            |
+| 08/11/18 | Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro |            |            |
+| 08/11/18 | The Formation of Prosociality: Causal Evidence on the Role of Social Environment                                           |            |            |
+| 15/11/18 | Age-dependent skill formation and returns to education                                                                     |            |            |
