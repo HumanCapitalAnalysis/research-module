@@ -11,13 +11,13 @@ We meet Thursdays between 16:15-17:45 in SR 0.042.
 
 | Date      | Topic                                                  |
 | ----------| ------------------------------------------------------ |
-| 11/10/18  | Generalized Roy Model                                  |
-| 18/10/18  | Returns to Education                                   |
-| 25/10/18  | Returns to Education                                   |
-| 08/11/18  | Labor Market Returns of Noncognitive Skills            |
-| 15/11/18  | Malleability of Skills                                 |
-| 22/11/18  | Production of Skills                                   |
-| 29/11/18  | Introduction to the NLSY and Python for Data Analytics |
+| 11/10/18  | Generalized Roy model                                  |
+| 18/10/18  | Application in Carneiro & al. (2011)                   |
+| 22/10/18  | Returns to education (reduced-form methods)            |
+| 25/10/18  | Returns to education (structural approach)             |
+| 08/11/18  | Labor market returns of noncognitive skills            |
+| 15/11/18  | Malleability of skills                                 |
+| 22/11/18  | Introduction to the NLSY and Python for data analytics |
 
 ## Lectures
 
@@ -42,7 +42,7 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 
 ## Presentation Schedule
 
-| Date         | Speaker      | Paper        | 
+| Date         | Speaker      | Paper        |
 | ------------ | ------------ | ------------ |
 | **18/10/18** |              | Bhuller, M., Mogstad, M., & Salvanes, K. (2017). [Life-Cycle Earnings, Education Premiums, and Internal Rates of Return](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/692509). *Journal of Labor Economics*, 35(4), 993–1030. |
 |              |              | Carneiro, P., & Heckman, J. (2002). [The Evidence on Credit Constraints in Post‐Secondary Schooling](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0297.00075). *The Economic Journal*, 112(482), 705-734. |

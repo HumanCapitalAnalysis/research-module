@@ -11,9 +11,11 @@ Please use the table of content to navigate the rest of the material.
 
 ## Meetings <a name="meetings"></a>
 
-### The Generalized Roy Model
+### [Generalized Roy model](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/overviews/01_intro_generalized_roy.pdf)
 
 * Eisenhauer, P. (2012). [Issues in the Economics and Econometrics of Policy Evaluation: Exploration Using a Factor Structure Model](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
+
+* Carneiro, P., Heckman, J., & Vytlacil, E. (2011). [Estimating marginal returns to education.](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754) *American Economic Review, 101*(6), 2754–81.
 
 * Heckman, J., & Vytlacil, E. (2007). [Econometric Evaluation of Social Programs, Part I: Causal Models, Structural Models and Econometric Policy Evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4779–4874).
 
