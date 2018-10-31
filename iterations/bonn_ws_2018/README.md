@@ -50,4 +50,4 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 |              |              |  |
 | **13/12/18** |              |  |
 |              |              |  |
-| **20/12/18** |              | Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882. |
+| **20/12/18** | Valentin Stumpe | Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882. (Slides) |
