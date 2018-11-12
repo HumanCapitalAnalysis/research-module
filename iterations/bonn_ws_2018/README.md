@@ -29,7 +29,7 @@ I briefly review some administrative issues regarding the course.
 
 ## References
 
-* ...
+* @vstottuth please add ...
 
 ## Guest Lectures
 
