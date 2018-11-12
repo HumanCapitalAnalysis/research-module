@@ -12,11 +12,11 @@ We meet Thursdays between 16:15-17:45 in SR 0.042.
 | Date      | Topic                                                  |
 | ----------| ------------------------------------------------------ |
 | 11/10/18  | Generalized Roy model                                  |
-| 18/10/18  | Application in Carneiro & al. (2011)                   |
-| 22/10/18  | Returns to education (reduced-form methods)            |
-| 25/10/18  | Returns to education (structural approach)             |
-| 08/11/18  | Labor market returns of noncognitive skills            |
-| 15/11/18  | Malleability of skills                                 |
+| 18/10/18  | Carneiro & al. (2011)                                  |
+| 22/10/18  | Lagakos & al. (2018)                                   |
+| 25/10/18  | Lagakos & al. (2018)                                   |
+| 08/11/18  | Rubinstein & Weiss (2006)                              |
+| 15/11/18  | Rubinstein & Weiss (2006)                              |
 | 22/11/18  | Introduction to the NLSY and Python for data analytics |
 
 ## Lectures
@@ -26,6 +26,10 @@ The core lectures are available [here](https://github.com/HumanCapitalAnalysis/s
 #### [Course overview](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2018/00_course_outline.pdf)
 
 I briefly review some administrative issues regarding the course.
+
+## References
+
+* ...
 
 ## Guest Lectures
 
