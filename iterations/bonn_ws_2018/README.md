@@ -29,7 +29,13 @@ I briefly review some administrative issues regarding the course.
 
 ## References
 
-* @vstottuth please add ...
+* Carneiro, P., Heckman, J., & Vytlacil, E. (2011). [Estimating Marginal Returns to Education](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754). *American Economic Review, 101*(6), 2754-2781. 
+
+* Lagakos, D., Moll, B., Porzio, T., Qian, N., & Schoellman, T. (2018). [Life Cycle Wage Growth across Countries](https://www.journals.uchicago.edu/doi/abs/10.1086/696225?mobileUi=0). *Journal of Political Economy 126*(2), 797-849. 
+
+
+* Rubinstein, Y., & Weiss, Y. (2006). [Post Schooling Wage Growth: Investment, Search and Learning](https://www.sciencedirect.com/science/article/pii/S1574069206010014). In E. Hanushek, and F. Welch, editors, *Handbook of the Economics of Education*, volume 1, pages 1-67, Elsevier Science, Amsterdam, Netherlands.
+
 
 ## Guest Lectures
 
