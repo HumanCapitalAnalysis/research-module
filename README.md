@@ -17,9 +17,9 @@ Please use the table of content to navigate the rest of the material.
 
 * Carneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). [Estimating marginal returns to education.](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754) *American Economic Review*, 101(6), 2754–2781.
 
-* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, Part I: Causal models, structural models and econometric policy evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4779–4874).
+* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part I: Causal models, structural models and econometric policy evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4779–4874).
 
-* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, Part II: Using the marginal treatment effect to organize alternative econometric estimators to evaluate social programs, and to forecast their effects in new environments](https://www.sciencedirect.com/science/article/pii/S1573441207060710). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4875–5143).
+* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part II: Using the marginal treatment effect to organize alternative econometric estimators to evaluate social programs, and to forecast their effects in new environments](https://www.sciencedirect.com/science/article/pii/S1573441207060710). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4875–5143).
 
 
 ### Returns to Education
