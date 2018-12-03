@@ -15,56 +15,58 @@ Please use the table of content to navigate the rest of the material.
 
 * Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
 
-* Carneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). [Estimating marginal returns to education.](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754) *American Economic Review*, 101(6), 2754–2781.
+* Carneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). [Estimating marginal returns to education.](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754) *American Economic Review, 101*(6), 2754–2781.
 
-* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part I: Causal models, structural models and econometric policy evaluation](https://www.sciencedirect.com/science/article/pii/S1573441207060709). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4779–4874).
+* Heckman, J. J., and Vytlacil, E. J. (2007a). [Econometric evaluation of social programs, part
+I: Causal effects, structural models and econometric policy evaluation.](http://ac.els-cdn.com/S1573441207060709/1-s2.0-S1573441207060709-main.pdf?_tid=b933f5c8-6bbe-11e7-8ae8-00000aacb35d&acdnat=1500385435_c69182d36b79b66bbce5f5a7c593617c) In Heckman, J. J., and Leamer, E. E., editors, *Handbook of Econometrics*, volume 6B, pages 4779–4874. Elsevier Science, Amsterdam, Netherlands.
 
-* Heckman, J. J., & Vytlacil, E. J. (2007). [Econometric evaluation of social programs, part II: Using the marginal treatment effect to organize alternative econometric estimators to evaluate social programs, and to forecast their effects in new environments](https://www.sciencedirect.com/science/article/pii/S1573441207060710). In J. Heckman & E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6, pp. 4875–5143).
+* Heckman, J. J., and Vytlacil, E. J. (2007b). [Econometric evaluation of social programs, part
+II: Using the marginal treatment effect to organize alternative economic estimators to evaluate social programs and to forecast their effects in new environments.](http://ac.els-cdn.com/S1573441207060710/1-s2.0-S1573441207060710-main.pdf?_tid=5ccb4ace-6bbf-11e7-807b-00000aab0f26&acdnat=1500385710_c3706f18138fabe356b0f3ebddd75670) In Heckman, J. J. and Leamer, E. E., editors, *Handbook of Econometrics*, volume 6B, pages 4875–5144. Elsevier Science, Amsterdam, Netherlands.
 
 
 ### Returns to Education
 
-* Heckman, J. J., Lochner, L. J., & Todd, P. E. (2006). [Earnings functions, rates of return and treatment effects: The Mincer equation and beyond](https://www.sciencedirect.com/science/article/pii/S1574069206010075). In E. Hanushek & F. Welch (Eds.), *Handbook of the Economics of Education* (Vol. 1, pp. 307–458).
+* Heckman, J. J., Lochner, L. J., & Todd, P. E. (2006). [Earnings functions, rates of return and treatment effects: The Mincer equation and beyond](https://www.sciencedirect.com/science/article/pii/S1574069206010075). In Hanushek, E. & Welch, F., editors, *Handbook of the Economics of Education*, volume 1, pages 307–458. Elsevier Science, Amsterdam, Netherlands.
 
 **Supporting Papers**
 
-* Bhuller, M., Mogstad, M., & Salvanes, K. G. (2017). [Life-cycle earnings, education premiums, and internal rates of return](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/692509). *Journal of Labor Economics*, 35(4), 993–1030.
+* Bhuller, M., Mogstad, M., & Salvanes, K. G. (2017). [Life-cycle earnings, education premiums, and internal rates of return](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/692509). *Journal of Labor Economics, 35*(4), 993–1030.
 
-* Carneiro, P., & Heckman, J. J (2002). [The evidence on credit constraints in post‐secondary schooling](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0297.00075). *The Economic Journal*, 112(482), 705-734.
+* Carneiro, P., & Heckman, J. J (2002). [The evidence on credit constraints in post‐secondary schooling](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0297.00075). *The Economic Journal, 112*(482), 705-734.
 
-* Cunha, F., Heckman, J. J., & Navarro, S. (2005). [Separating uncertainty from heterogeneity in life cycle earnings](https://academic.oup.com/oep/article/57/2/191/2361921). *Oxford Economic Papers*, 57(2), 191-261.
+* Cunha, F., Heckman, J. J., & Navarro, S. (2005). [Separating uncertainty from heterogeneity in life cycle earnings](https://academic.oup.com/oep/article/57/2/191/2361921). *Oxford Economic Papers, 57*(2), 191-261.
 
-* Eisenhauer, P., Heckman, J. J., & Mosso, S. (2015). [Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments](https://onlinelibrary.wiley.com/doi/pdf/10.1111/iere.12107). *International Economic Review*, 56(2), 331-357.
+* Eisenhauer, P., Heckman, J. J., & Mosso, S. (2015). [Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments](https://onlinelibrary.wiley.com/doi/pdf/10.1111/iere.12107). *International Economic Review, 56*(2), 331-357.
 
 
 ### Labor Market Returns of Noncognitive Skills
 
-* Heckman, J. J., Stixrud, J., & Urzua, S. (2006). [The effects of cognitive and noncognitive abilities on labor market outcomes and social behavior](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/504455). *Journal of Labor Economics*, 24(3), 411–482.
+* Heckman, J. J., Stixrud, J., & Urzua, S. (2006). [The effects of cognitive and noncognitive abilities on labor market outcomes and social behavior](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/504455). *Journal of Labor Economics, 24*(3), 411–482.
 
 **Supporting Papers**
 
-* Heineck, G., & Anger, S. (2010). [The returns to cognitive abilities and personality traits in Germany](https://www.sciencedirect.com/science/article/pii/S0927537109000670). *Labour Economics*, 17(3), 535-546.
+* Heineck, G., & Anger, S. (2010). [The returns to cognitive abilities and personality traits in Germany](https://www.sciencedirect.com/science/article/pii/S0927537109000670). *Labour Economics, 17*(3), 535-546.
 
-* Piatek, R., & Pinger, P. (2010). [Maintaining (locus of) control? Data combination for the identification and inference of factor structure models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2456). *Journal of Applied Econometrics*, 31(4), 734–755.
+* Piatek, R., & Pinger, P. (2010). [Maintaining (locus of) control? Data combination for the identification and inference of factor structure models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2456). *Journal of Applied Econometrics, 31*(4), 734–755.
 
 
 ### Malleability of Skills
 
- * Heckman, J. J., Moon, S. H., Pinto, R., Savelyev, P. A., & Yavitz, A. (2010). [The rate of return to the HighScope Perry Preschool Program](https://www.sciencedirect.com/science/article/pii/S0047272709001418). *Journal of Public Economics*, 94(1-2), 114–128.
+ * Heckman, J. J., Moon, S. H., Pinto, R., Savelyev, P. A., & Yavitz, A. (2010). [The rate of return to the HighScope Perry Preschool Program](https://www.sciencedirect.com/science/article/pii/S0047272709001418). *Journal of Public Economics, 94*(1-2), 114–128.
 
  **Supporting Papers**
 
- * Calero, C., Gonzales Diez, V., Soares, Y. S. D., Kluve, J., & Corseuil, C. H. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics*, 45, 131-142.
+ * Calero, C., Gonzales Diez, V., Soares, Y. S. D., Kluve, J., & Corseuil, C. H. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics, 45*, 131-142.
 
  * Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://www.iame.uni-bonn.de/people/fabian-kosse/the-formation-of-prosociality-causal-evidence-on-the-role-of-the-social-environment). *Journal of Political Economy (forthcoming)*, DP-Version: HCEO Working Paper No. 2018-025.
 
 ### Production of Skills
 
-* Cunha, F., Heckman, J. J., & Schennach, S. M. (2010). [Estimating the technology of cognitive and noncognitive skill formation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6551). *Econometrica*, 78(3), 883–931.
+* Cunha, F., Heckman, J. J., & Schennach, S. M. (2010). [Estimating the technology of cognitive and noncognitive skill formation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6551). *Econometrica, 78*(3), 883–931.
 
  **Supporting Papers**
 
- * Pfeiffer, F., & Reuß, K. (2008). [Age-dependent skill formation and returns to education](https://www.sciencedirect.com/science/article/pii/S0927537108000365). *Labour Economics*, 15(4), 631-646.
+ * Pfeiffer, F., & Reuß, K. (2008). [Age-dependent skill formation and returns to education](https://www.sciencedirect.com/science/article/pii/S0927537108000365). *Labour Economics, 15*(4), 631-646.
 
 ### Introduction to NLSY and Data Analytics
 
