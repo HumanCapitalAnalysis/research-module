@@ -53,3 +53,22 @@ For students with the aim to fully cover the techniques in [Python for data anal
 #### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://github.com/HumanCapitalAnalysis/seminar/blob/master/slides_guests/Introduction_nlsy.pdf)
 
 I will present an overview of the NLSY dataset including an introduction of accessing the data. In a next step, I will show how to perform some basic regressions, density plots, and heatmap plots in the Jupyter Notebook motivated by my Master thesis on modeling wage uncertainty in dynamic life-cycle models (based on this paper https://www.journals.uchicago.edu/doi/abs/10.1086/262080).
+
+
+## Presentation Schedule
+
+Presentations will be held on the 23rd of January in the faculty room.
+
+| Time         | Speakers      | Topic        |
+| ------------ | ------------ | ------------ |
+| **9:30-10:15** | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
+| **10:15-11:00** | Gero Babik, Daniel Lüke | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
+| Break |  |  |
+| **11:15-12:00** | Annica Gehlen, Katja Morawitz | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
+| Break |  |  |
+| **13:45-14:30** | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
+| **14:30-15:15** | Pooja Bansal, Elin Al Zaim | The effect of cognitive and non cognitive skill on individual wages across different occupations |
+| Break |  |  |
+| **15:30-16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
+| **16:15-17:00** | Irem Turan |  |
+
