@@ -61,14 +61,14 @@ Presentations will be held on the 24th of January in the faculty room.
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
-| **9:30** **-** **10:15** | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
-| **10:15** **-** **11:00** | Gero Babik, Daniel Lüke | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
+| 9:30 - 10:15 | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
+| 10:15 - 11:00 | Gero Babik, Daniel Lüke | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
-| **11:15** **-** **12:00** | Annica Gehlen, Katja Morawitz | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
+| 11:15 - 12:00 | Annica Gehlen, Katja Morawitz | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
-| **13:45** **-** **14:30** | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
-| **14:30** **-** **15:15** | Pooja Bansal, Elin Al Zaim | The effect of cognitive and non cognitive skill on individual wages across different occupations |
+| 13:45 - 14:30 | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
+| 14:30 - 15:15 | Pooja Bansal, Elin Al Zaim | The effect of cognitive and non cognitive skill on individual wages across different occupations |
 | Break |  |  |
-| **15:30** **-** **16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
-| **16:15** **-** **17:00** | Irem Turan |  |
+| 15:30 - 16:15 | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
+| 16:15 - 17:00 | Irem Turan |  |
 
