@@ -57,7 +57,7 @@ I will present an overview of the NLSY dataset including an introduction of acce
 
 ## Presentation Schedule
 
-We only meet on the 24th of January in the Faculty Room (U22). Note that the presentations are 45 MINUTES for each group with 30 MINUTES presentation and 15 MINUTES discussion.
+We only meet on the 24th of January in the Faculty Room ,U22, entrance Lennéstraße. Note that the presentations are 45 MINUTES for each group with 30 MINUTES presentation and 15 MINUTES discussion.
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
