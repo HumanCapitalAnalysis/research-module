@@ -58,7 +58,7 @@ I will present an overview of the NLSY dataset including an introduction of acce
 
 Please submit your manuscript to Valerie on January 19th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix.
 
-## Presentation Schedule
+## Presentations
 
 We only meet on the 24th of January in the Faculty Room, U22, entrance Lennéstraße. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion.
 
