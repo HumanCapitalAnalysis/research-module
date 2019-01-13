@@ -56,7 +56,7 @@ I will present an overview of the NLSY dataset including an introduction of acce
 
 ## Manuscript
 
-Please submit your manuscript to Valerie on January 19th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix.
+Please submit your manuscript to Valerie on January 19th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix. There is no need to provide the data or computer programs.
 
 ## Presentations
 
