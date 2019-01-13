@@ -29,9 +29,9 @@ I briefly review some administrative issues regarding the course.
 
 ## References
 
-* Carneiro, P., Heckman, J., & Vytlacil, E. (2011). [Estimating marginal returns to education](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754). *American Economic Review, 101*(6), 2754-2781. 
+* Carneiro, P., Heckman, J., & Vytlacil, E. (2011). [Estimating marginal returns to education](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754). *American Economic Review, 101*(6), 2754-2781.
 
-* Lagakos, D., Moll, B., Porzio, T., Qian, N., & Schoellman, T. (2018). [Life cycle wage growth across countries](https://www.journals.uchicago.edu/doi/abs/10.1086/696225?mobileUi=0). *Journal of Political Economy, 126*(2), 797-849. 
+* Lagakos, D., Moll, B., Porzio, T., Qian, N., & Schoellman, T. (2018). [Life cycle wage growth across countries](https://www.journals.uchicago.edu/doi/abs/10.1086/696225?mobileUi=0). *Journal of Political Economy, 126*(2), 797-849.
 
 
 * Rubinstein, Y., & Weiss, Y. (2006). [Post schooling wage growth: Investment, search and learning](https://www.sciencedirect.com/science/article/pii/S1574069206010014). In E. Hanushek, and F. Welch, editors, *Handbook of the Economics of Education*, volume 1, pages 1-67, Elsevier Science, Amsterdam, Netherlands.
@@ -54,10 +54,13 @@ For students with the aim to fully cover the techniques in [Python for data anal
 
 I will present an overview of the NLSY dataset including an introduction of accessing the data. In a next step, I will show how to perform some basic regressions, density plots, and heatmap plots in the Jupyter Notebook motivated by my Master thesis on modeling wage uncertainty in dynamic life-cycle models (based on this paper https://www.journals.uchicago.edu/doi/abs/10.1086/262080).
 
+## Manuscript
+
+Please submit your manuscript to Valerie on January 19th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix.
 
 ## Presentation Schedule
 
-We only meet on the 24th of January in the Faculty Room ,U22, entrance Lennéstraße. Note that the presentations are 45 MINUTES for each group with 30 MINUTES presentation and 15 MINUTES discussion.
+We only meet on the 24th of January in the Faculty Room, U22, entrance Lennéstraße. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion.
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
@@ -71,4 +74,3 @@ We only meet on the 24th of January in the Faculty Room ,U22, entrance Lennéstr
 | Break |  |  |
 | **15:30-16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
 | **16:15-17:00** | Irem Turan | Union and nonunion wage differentials in US economy in the period between 2011 and 2015 |
-
