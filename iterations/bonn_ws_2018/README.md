@@ -73,4 +73,4 @@ We only meet on the 24th of January in the Faculty Room, U22, entrance Lennéstr
 | **14:30-15:15** | Pooja Bansal, Elin Al Zaim | The effect of cognitive and non cognitive skill on individual wages across different occupations |
 | Break |  |  |
 | **15:30-16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
-| **16:15-17:00** | Irem Turan | The mpact of unions on wages and salaries in US economy when unemployment rate decrease |
+| **16:15-17:00** | Irem Turan | The impact of unions on wages and salaries in US economy when unemployment rate decrease |
