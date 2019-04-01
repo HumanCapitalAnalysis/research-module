@@ -45,7 +45,7 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 
 I am going to do a brief introduction on [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We are gonna explore some basic python tools on data exploration and cleaning. Using these tools I will present the data handling in my Master Thesis on John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
 
-To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/slides_guests/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
+To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
 
 For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
 
