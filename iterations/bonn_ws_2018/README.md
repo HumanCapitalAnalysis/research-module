@@ -50,7 +50,7 @@ To prepare for this introduction I highly recommend to read the following [slide
 For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
 
 
-#### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://github.com/HumanCapitalAnalysis/seminar/blob/master/slides_guests/Introduction_nlsy.pdf)
+#### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_nlsy.pdf)
 
 I will present an overview of the NLSY dataset including an introduction of accessing the data. In a next step, I will show how to perform some basic regressions, density plots, and heatmap plots in the Jupyter Notebook motivated by my Master thesis on modeling wage uncertainty in dynamic life-cycle models (based on this paper https://www.journals.uchicago.edu/doi/abs/10.1086/262080).
 
