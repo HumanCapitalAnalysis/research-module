@@ -45,12 +45,12 @@ I am very happy to welcome two guest lecturers who will provide brief presentati
 
 I am going to do a brief introduction on [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We are gonna explore some basic python tools on data exploration and cleaning. Using these tools I will present the data handling in my Master Thesis on John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
 
-To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/slides_guests/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
+To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
 
 For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
 
 
-#### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://github.com/HumanCapitalAnalysis/seminar/blob/master/slides_guests/Introduction_nlsy.pdf)
+#### 22/11/19 [PatriziaMassner](https://github.com/PatriziaMassner) on [The NLSY Dataset](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_nlsy.pdf)
 
 I will present an overview of the NLSY dataset including an introduction of accessing the data. In a next step, I will show how to perform some basic regressions, density plots, and heatmap plots in the Jupyter Notebook motivated by my Master thesis on modeling wage uncertainty in dynamic life-cycle models (based on this paper https://www.journals.uchicago.edu/doi/abs/10.1086/262080).
 
@@ -64,13 +64,13 @@ We only meet on the 24th of January in the Faculty Room, U22, entrance Lennéstr
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
-| **9:30-10:15** | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
+| **9:30-10:15** | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
 | **10:15-11:00** | Gero Babik, Daniel Lüke | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
 | **11:15-12:00** | Annica Gehlen, Katja Morawitz | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
-| **13:45-14:30** | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
+| **13:45-14:30** | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
 | **14:30-15:15** | Pooja Bansal, Elin Al Zaim | The effect of cognitive and non cognitive skill on individual wages across different occupations |
 | Break |  |  |
 | **15:30-16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
-| **16:15-17:00** | Irem Turan | Union and nonunion wage differentials in US economy in the period between 2011 and 2015 |
+| **16:15-17:00** | Irem Turan | The impact of unions on wages and salaries in US economy when unemployment rate decrease |
