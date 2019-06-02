@@ -13,7 +13,7 @@ Please use the table of content to navigate the rest of the material.
 
 ### [Generalized Roy model](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/overviews/01_intro_generalized_roy.pdf)
 
-* Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
+* Eisenhauer, P. (2012). [Issues in the economics and econometrics of policy evaluation: Exploration using a factor structure model](https://github.com/HumanCapitalAnalysis/policy-evaluation/blob/master/distribution/Eisenhauer_2012.pdf). Unpublished manuscript.
 
 * Carneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). [Estimating marginal returns to education.](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2754) *American Economic Review, 101*(6), 2754–2781.
 
@@ -58,8 +58,8 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
  * Calero, C., Gonzales Diez, V., Soares, Y. S. D., Kluve, J., & Corseuil, C. H. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics, 45*, 131-142.
 
- * Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://www.iame.uni-bonn.de/people/fabian-kosse/the-formation-of-prosociality-causal-evidence-on-the-role-of-the-social-environment). *Journal of Political Economy (forthcoming)*, DP-Version: HCEO Working Paper No. 2018-025.
-
+ * Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211780). *Journal of Political Economy (forthcoming)*, DP-Version: CESifo Working Paper Series No. 7068.
+ 
 ### Production of Skills
 
 * Cunha, F., Heckman, J. J., & Schennach, S. M. (2010). [Estimating the technology of cognitive and noncognitive skill formation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6551). *Econometrica, 78*(3), 883–931.
@@ -76,4 +76,4 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
 ## Iterations <a name="iterations"></a>
 
-* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2018/README.md) for details.
+* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2018/README.md) for details.
