@@ -5,7 +5,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 
 **Lecturer** [Philipp Eisenhauer](https://eisenhauer.io)
 
-**Assistant** [Liudmila Kiseleva](https://github.com/vstottuth)
+**Assistant** [Liudmila Kiseleva](https://github.com/milakis)
 
 ## Lecture plan
 
