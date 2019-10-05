@@ -59,7 +59,7 @@ II: Using the marginal treatment effect to organize alternative economic estimat
  * Calero, C., Gonzales Diez, V., Soares, Y. S. D., Kluve, J., & Corseuil, C. H. (2016). [Can arts-based interventions enhance labor market outcomes among youth? Evidence from a randomized trial in Rio de Janeiro](https://www.sciencedirect.com/science/article/pii/S0927537116303396). *Labour Economics, 45*, 131-142.
 
  * Kosse, F., Deckers, T., Schildberg-Hörisch, H., Falk, A., & Pinger, P. (2016). [The formation of prosociality: Causal evidence on the role of social environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211780). *Journal of Political Economy (forthcoming)*, DP-Version: CESifo Working Paper Series No. 7068.
- 
+
 ### Production of Skills
 
 * Cunha, F., Heckman, J. J., & Schennach, S. M. (2010). [Estimating the technology of cognitive and noncognitive skill formation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6551). *Econometrica, 78*(3), 883–931.
@@ -77,3 +77,5 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 ## Iterations <a name="iterations"></a>
 
 * **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2018/README.md) for details.
+
+* **Winter Quarter 2019**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2019/README.md) for details.

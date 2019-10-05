@@ -1,0 +1,19 @@
+name: hc_research_module
+
+channels:
+- conda
+- conda-forge
+
+dependencies:
+- python=3.7
+- numpy
+- pandas
+- flake8
+- pytest
+- pandas 
+- jupyterlab
+- matplotlib
+- seaborn
+- jupyter
+- pip
+- pygraphviz
