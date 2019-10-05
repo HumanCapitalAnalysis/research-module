@@ -37,13 +37,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 Please submit your manuscript to Liudmila on January 18th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix. There is no need to provide the data or computer programs.
 
-Here are some suggestions to improve the quality of your manuscript and help you in the preparation of the presentation.
-
-* Strunk, W., & White, E. B. (1999). [*The elements of style*](https://www.amazon.de/Elements-Style-B-White/dp/020530902X/ref=sr_1_1?keywords=strunk+white&qid=1554104134&s=gateway&sr=8-1). Boston, MA: Allyn & Bacon.
-
-* Wallwork, A. (2016). [*English for writing research papers*](https://www.amazon.de/English-Writing-Research-Papers-Academic/dp/B01JO334QK/ref=sr_1_fkmr0_1?keywords=andy+wallwork&qid=1554104165&s=gateway&sr=8-1-fkmr0). Basel, Switzerland: Springer International Publishing.
-
-* Wallwork, A. (2016). [*English for presentations at international conferences*](https://www.amazon.de/Presentations-International-Conferences-Academic-Research/dp/3319263285/ref=sr_1_fkmr0_1?keywords=andy+wallwork&qid=1554104154&s=gateway&sr=8-1-fkmr0). Basel, Switzerland: Springer International Publishing.
+Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for some book recommendations that can help you improving the quality of your manuscript and also assist you in the preparation of the presentation.
 
 ### Frequently asked questions
 
