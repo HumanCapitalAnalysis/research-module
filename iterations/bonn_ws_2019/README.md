@@ -21,7 +21,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 
 ## Reading group
 
-We adopt a reading group approach for this year's seminar. Please see the [course outline](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/00_course_outline.pdf) for details.
+We adopt a reading group approach for this year's seminar. Please see the [course outline](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for details.
 
 ### Session 1
 
@@ -36,3 +36,5 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 ### Frequently asked questions
 
 * **Where can I sign up for the weekly student contributions?** The sign-up sheet is available [here](https://docs.google.com/spreadsheets/d/1nY8cZB0ZQ26Q1xlbjVQDpXEsiB9LSB3ouqUvuckvvWU/edit?usp=sharing).
+
+* **Where can I find the grading rubric for the student presentations?** The template we use for our peer-grading is available [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/material/presentation-grading.pdf).
