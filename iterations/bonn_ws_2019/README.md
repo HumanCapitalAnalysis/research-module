@@ -23,7 +23,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 
 We adopt a reading group approach for this year's seminar. Please see the [course outline](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for details.
 
-### Session 1
+### Week 1 (16/10/19)
 
 **Joint discussion**
 
