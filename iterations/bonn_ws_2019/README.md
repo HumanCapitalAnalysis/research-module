@@ -15,8 +15,8 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | 21/10/19  |                                                        |
 | 28/10/19  |                                                        |
 | 04/11/19  |                                                        |
-| 11/11/19  |                                                        |
-| 18/11/19  |                                                        |
+| 11/11/19  | Introduction to SOEP                                   |
+| 18/11/19  | Introduction to Data Analysis, NLSY                    |
 | 25/11/19  |                                                        |
 
 ## Reading group
