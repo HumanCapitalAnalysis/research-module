@@ -76,6 +76,6 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
 ## Iterations <a name="iterations"></a>
 
-* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2018/README.md) for details.
-
 * **Winter Quarter 2019**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2019/README.md) for details.
+
+* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/research-module/blob/master/iterations/bonn_ws_2018/README.md) for details.
