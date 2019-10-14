@@ -31,7 +31,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student contribution**
 
-* ...
+* https://www.jstor.org/stable/4132690?seq=1#metadata_info_tab_contents
 
 ## Manuscript
 
