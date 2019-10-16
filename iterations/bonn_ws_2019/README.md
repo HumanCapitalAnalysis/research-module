@@ -33,7 +33,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the Apple Doesn't Fall Far: Understanding Intergenerational Transmission of Human Capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *The American Economic Review, 95*(1), 437-449. 
 
-**Lightning talk**
+**Lightning talks**
 
 * ...
 
