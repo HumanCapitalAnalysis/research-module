@@ -12,7 +12,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | Date      | Topic                                                  |
 | ----------| ------------------------------------------------------ |
 | 16/10/19  | Returns to education (reduced-form)                    |
-| 21/10/19  |                                                        |
+| 21/10/19  | Returns to education (structural models)               |
 | 28/10/19  |                                                        |
 | 04/11/19  |                                                        |
 | 11/11/19  | Introduction to SOEP                                   |
@@ -23,7 +23,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 
 We adopt a reading group approach for this year's seminar. Please see the [course outline](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/00_course_overview.pdf) for details.
 
-### Week 1
+### Returns to education (reduced-form)
 
 **Joint discussion**
 
@@ -32,6 +32,16 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Student contribution**
 
 * Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the Apple Doesn't Fall Far: Understanding Intergenerational Transmission of Human Capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *The American Economic Review, 95*(1), 437-449. 
+
+### Returns to education (structural models)
+
+**Joint discussion**
+
+* ...
+
+**Student contribution**
+
+* ...
 
 ## Manuscript
 
