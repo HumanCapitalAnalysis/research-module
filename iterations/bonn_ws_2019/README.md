@@ -45,7 +45,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student contribution**
 
-* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(S1), 197-246.
+* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
 
 ## Manuscript
 
