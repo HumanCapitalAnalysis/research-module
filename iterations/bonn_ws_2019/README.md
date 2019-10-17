@@ -35,7 +35,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Lightning talks**
 
-* ...
+* Oreopoulos, P. (2006). [Estimating average and local average treatment effects of education when compulsory schooling laws really matter](https://pubs.aeaweb.org/doi/pdfplus/10.1257/000282806776157641). *American Economic Review, 96*(1), 152-175.
 
 ### Returns to education (structural models)
 
@@ -46,6 +46,10 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Student contribution**
 
 * Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
+
+**Lightning talks**
+
+* ...
 
 ## Manuscript
 
