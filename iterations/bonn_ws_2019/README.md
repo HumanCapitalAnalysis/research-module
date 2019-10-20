@@ -31,7 +31,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student presentation**
 
-* Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the apple doesn't fall far: understanding intergenerational transmission of human capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *American Economic Review, 95*(1), 437-449. 
+* Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the apple doesn't fall far: understanding intergenerational transmission of human capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *American Economic Review, 95*(1), 437-449.
 
 **Lightning talks**
 
@@ -50,6 +50,10 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Lightning talks**
 
 * ...
+
+## Student reports
+
+Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/material/student-reviews.pdf). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
 
 ## Manuscript
 
