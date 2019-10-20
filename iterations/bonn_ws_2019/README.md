@@ -41,11 +41,11 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Joint discussion**
 
-* ...
+* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
 
 **Student contribution**
 
-* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
+* Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
 **Lightning talks**
 
