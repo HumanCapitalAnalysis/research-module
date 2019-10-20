@@ -53,7 +53,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 ## Student reports
 
-Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/material/student-reviews.pdf). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
+Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/research-module/tree/master/iterations/bonn_ws_2019/student_materials). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
 
 We strongly encourage you to use the framework of an **QAQR** report in preparation for the student reports. The acronym stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you do the following:
 
