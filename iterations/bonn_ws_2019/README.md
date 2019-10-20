@@ -55,6 +55,13 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/seminar/blob/master/iterations/bonn_ws_2019/material/student-reviews.pdf). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
 
+We strongly encourage you to use the framework of an **QAQR** report in preparation for the student reports. The acronym stands for **Q**uote, **A**rgument, **Q**uestion, **R**eflection, and characterizes the four desired outcomes of the report. You should write a report (about 2-3 pages long), where you do the following:
+
+- present a selection of one or more main core arguments from the required literature
+- summarize the main arguments
+- formulate a question / discussion points
+- reflect on the literature and how it is related to topics covered in lecture
+
 ## Manuscript
 
 Please submit your manuscript to Liudmila on January 18th. The manuscript cannot exceed 18 pages which includes tables, figures, references, and the appendix. There is no need to provide the data or computer programs.
