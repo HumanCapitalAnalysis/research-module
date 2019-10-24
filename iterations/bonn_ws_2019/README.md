@@ -47,7 +47,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
-## Education, HIV, and Early Fertility
+### Education, HIV, and Early Fertility
 
 **Joint discussion**
 
