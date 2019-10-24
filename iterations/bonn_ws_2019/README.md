@@ -13,7 +13,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | ----------| ------------------------------------------------------ |
 | 16/10/19  | Returns to education (reduced-form)                    |
 | 21/10/19  | Returns to education (structural models)               |
-| 28/10/19  |                                                        |
+| 28/10/19  | Education, HIV, and early fertility                                                        |
 | 04/11/19  |                                                        |
 | 11/11/19  | Introduction to SOEP                                   |
 | 18/11/19  | Introduction to Data Analysis, NLSY                    |
@@ -47,9 +47,15 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
-**Lightning talks**
+## Education, HIV, and Early Fertility
 
-* ...
+**Joint discussion**
+
+* Esther, D., Dupas, P., & Kremer, M. (2015). [Education, HIV, and early fertility: experimental evidence from Kenya](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20121607). *American Economic Review, 105*(9), 2757-97.
+
+**Student contribution**
+
+* Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://watermark.silverchair.com/qjr041.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAl8wggJbBgkqhkiG9w0BBwagggJMMIICSAIBADCCAkEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxUvQKdaeeoDdpdvEAgEQgIICEo3s0ZWYJEewHiHXdvTH6Ta9y7UFwXv56hC-5INtsWGZE9JlMFTWNGeWVAK2t-em80HB15tnLRyuYa-fuBzYn5tlVWDDLFF8odv3GSedJem60saU1d1b2Ea6Z5tNbKNfd3wvWIYuivbVeDr33n0GdWI1juH44RejUdQptYVqD4z4WcMnwxare5A43SIBXt5eK1chGAgxahhOAPl6zJYbn8c9Z4xIJ-WVaaPd4Cz0kaajmAP-Mas-FVM3vft6U41xhIAahJzaiKW2VM23ZUxzI8W2W8gVzd4MkQiPV4d7CFDA51m3oJbxcF7QNIaMDAtyjkYBXXEew4j_EbZyDMbPcbnG3HdhFtJLm-XFUopSEcFJuG8-8skj8Xq-U_DVB8ji0ZRQ4yk-7hi0fa6-TX2GxvC7FZKLMX4Lrao7xN1kHDxM7IgGQuUhTQROV9BavLIoSsAC2Hu2wN12eN1Ha8ZMlt_1Lf8GOt3qc-X50vrPJ_slvGIUuCw3pegSHS3-RSQpl0xnyKrRiA9saYsI4SgOz8COv8flh1JhwNrHchee6TpLXlG8VMblbY8swf-WIfsHgkdSKtvY_A9AIXDhAiMY16T1u6ytZx2O51uwNp98zZB8mGt1QXpq78bqBrlIQCqxX5FwLIP-AKB9LuKtpft6Ng6oHNRkkY9HmMJ4AXnsPPp7jvPQE0d0KdyO4LblNnXrLEUU). *Quarterly Journal of Economics, 126*(4), 1593-1660.
 
 ## Student reports
 
