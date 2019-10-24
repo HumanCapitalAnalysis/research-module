@@ -55,7 +55,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student contribution**
 
-* Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://watermark.silverchair.com/qjr041.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAl8wggJbBgkqhkiG9w0BBwagggJMMIICSAIBADCCAkEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxUvQKdaeeoDdpdvEAgEQgIICEo3s0ZWYJEewHiHXdvTH6Ta9y7UFwXv56hC-5INtsWGZE9JlMFTWNGeWVAK2t-em80HB15tnLRyuYa-fuBzYn5tlVWDDLFF8odv3GSedJem60saU1d1b2Ea6Z5tNbKNfd3wvWIYuivbVeDr33n0GdWI1juH44RejUdQptYVqD4z4WcMnwxare5A43SIBXt5eK1chGAgxahhOAPl6zJYbn8c9Z4xIJ-WVaaPd4Cz0kaajmAP-Mas-FVM3vft6U41xhIAahJzaiKW2VM23ZUxzI8W2W8gVzd4MkQiPV4d7CFDA51m3oJbxcF7QNIaMDAtyjkYBXXEew4j_EbZyDMbPcbnG3HdhFtJLm-XFUopSEcFJuG8-8skj8Xq-U_DVB8ji0ZRQ4yk-7hi0fa6-TX2GxvC7FZKLMX4Lrao7xN1kHDxM7IgGQuUhTQROV9BavLIoSsAC2Hu2wN12eN1Ha8ZMlt_1Lf8GOt3qc-X50vrPJ_slvGIUuCw3pegSHS3-RSQpl0xnyKrRiA9saYsI4SgOz8COv8flh1JhwNrHchee6TpLXlG8VMblbY8swf-WIfsHgkdSKtvY_A9AIXDhAiMY16T1u6ytZx2O51uwNp98zZB8mGt1QXpq78bqBrlIQCqxX5FwLIP-AKB9LuKtpft6Ng6oHNRkkY9HmMJ4AXnsPPp7jvPQE0d0KdyO4LblNnXrLEUU). *Quarterly Journal of Economics, 126*(4), 1593-1660.
+* Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://dash.harvard.edu/bitstream/handle/1/9639983/w16381_2.pdf?sequence=5&isAllowed=y). *Quarterly Journal of Economics, 126*(4), 1593-1660.
 
 ## Student reports
 
