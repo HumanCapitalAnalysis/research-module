@@ -13,7 +13,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | ----------| ------------------------------------------------------ |
 | 16/10/19  | Returns to education (reduced-form)                    |
 | 21/10/19  | Returns to education (structural models)               |
-| 28/10/19  | Education, HIV, and early fertility                                                        |
+| 28/10/19  | Noble laureates 2019                                   |
 | 04/11/19  |                                                        |
 | 11/11/19  | Introduction to SOEP                                   |
 | 18/11/19  | Introduction to Data Analysis, NLSY                    |
@@ -47,7 +47,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
-### Education, HIV, and Early Fertility
+### Noble laureates 2019 
 
 **Joint discussion**
 
