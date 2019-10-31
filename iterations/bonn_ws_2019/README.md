@@ -57,6 +57,16 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://dash.harvard.edu/bitstream/handle/1/9639983/w16381_2.pdf?sequence=5&isAllowed=y). *Quarterly Journal of Economics, 126*(4), 1593-1660.
 
+### The Formation of prosociality
+
+**Joint discussion**
+
+* Kosse, F., Deckers, T., Pinger, P., Schildberg-Hörisch, H., & Falk, A. (2019). [The Formation of prosociality: Causal evidence on the role of social environment](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/704386). *Journal of Political Economy (forthcoming)*.
+
+**Student contribution**
+
+* Duflo, E. (2001). [Schooling and labor market consequences of school Construction in Indonesia: evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
+
 ## Student reports
 
 Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/research-module/tree/master/iterations/bonn_ws_2019/student_materials). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
