@@ -14,8 +14,8 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | 16/10/19  | Returns to education (reduced-form)                    |
 | 21/10/19  | Returns to education (structural models)               |
 | 28/10/19  | Noble laureates 2019                                   |
-| 04/11/19  |                                                        |
-| 11/11/19  | Introduction to SOEP                                   |
+| 04/11/19  | Malleability of skills                                 |
+| 11/11/19  | Skills and labor market outcomes                       |
 | 18/11/19  | Introduction to Data Analysis, NLSY                    |
 | 25/11/19  |                                                        |
 
@@ -47,7 +47,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
-### Noble laureates 2019 
+### Noble laureates 2019
 
 **Joint discussion**
 
@@ -57,7 +57,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://dash.harvard.edu/bitstream/handle/1/9639983/w16381_2.pdf?sequence=5&isAllowed=y). *Quarterly Journal of Economics, 126*(4), 1593-1660.
 
-### The Formation of prosociality
+### Malleability of skills
 
 **Joint discussion**
 
@@ -66,6 +66,12 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Student contribution**
 
 * Duflo, E. (2001). [Schooling and labor market consequences of school Construction in Indonesia: evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
+
+### Skills and labor market outcomes
+
+**Joint discussion**
+
+* ...
 
 ## Student reports
 
