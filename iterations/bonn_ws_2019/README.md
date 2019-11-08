@@ -47,6 +47,10 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
+**Lightning talks**
+
+* Tansel, A. (1993). [Cigarette demand, health scares and education in Turkey](http://www.econ.yale.edu/growth_pdf/cdp660.pdf). *Applied Economics, 25*, 521-529.
+
 ### Noble laureates 2019
 
 **Joint discussion**
@@ -56,6 +60,10 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Student contribution**
 
 * Chetty, R., Friedman, J., Hilger, N., Saez, E., Schanzenbach, D., & Yagan, D. (2011). [How does your kindergarten classroom affect your earnings? Evidence from project STAR](https://dash.harvard.edu/bitstream/handle/1/9639983/w16381_2.pdf?sequence=5&isAllowed=y). *Quarterly Journal of Economics, 126*(4), 1593-1660.
+
+**Lightning talks**
+
+* Skriabikova, O., Dohmen, T., & Kriechel, B. (2014) [New evidence on the relationship between risk attitudes and self-employment](https://reader.elsevier.com/reader/sd/pii/S092753711400044X?token=B082C8F6F503E91B3EFEBE92C5A1169D16CDC993C0823C5B9E2721E8C1C3D56715361C413A47E62085269523EE32D2FE). *Labour Economics, 30*, 176-184.
 
 ### Malleability of skills
 
@@ -72,6 +80,10 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 **Joint discussion**
 
 * ...
+
+**Student contribution**
+
+* Drago, F. (2011). [Self-esteem and earnings](http://ftp.iza.org/dp3577.pdf). *Journal of Economic Psychology, 32*(3), 480-488.
 
 ## Student reports
 
