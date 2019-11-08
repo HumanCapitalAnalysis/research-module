@@ -73,13 +73,13 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student contribution**
 
-* Duflo, E. (2001). [Schooling and labor market consequences of school Construction in Indonesia: evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
+* Duflo, E. (2001). [Schooling and labor market consequences of school construction in Indonesia: evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
 
 ### Skills and labor market outcomes
 
 **Joint discussion**
 
-* ...
+* Heineck, G., & Anger, S. (2010). [The returns to cognitive abilities and personality traits in Germany](http://www.laser.uni-erlangen.de/papers/paper/50.pdf). *Labour Economics, 17*(3), 535-546.
 
 **Student contribution**
 
