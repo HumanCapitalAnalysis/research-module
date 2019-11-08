@@ -63,7 +63,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Lightning talks**
 
-* Skriabikova, O., Dohmen, T., & Kriechel, B. (2014) [New evidence on the relationship between risk attitudes and self-employment](https://reader.elsevier.com/reader/sd/pii/S092753711400044X?token=B082C8F6F503E91B3EFEBE92C5A1169D16CDC993C0823C5B9E2721E8C1C3D56715361C413A47E62085269523EE32D2FE). *Labour Economics, 30*, 176-184.
+* Skriabikova, O., Dohmen, T., & Kriechel, B. (2014). [New evidence on the relationship between risk attitudes and self-employment](https://reader.elsevier.com/reader/sd/pii/S092753711400044X?token=B082C8F6F503E91B3EFEBE92C5A1169D16CDC993C0823C5B9E2721E8C1C3D56715361C413A47E62085269523EE32D2FE). *Labour Economics, 30*, 176-184.
 
 ### Malleability of skills
 
