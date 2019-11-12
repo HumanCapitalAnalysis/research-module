@@ -31,7 +31,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Student presentation**
 
-* Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the apple doesn't fall far: understanding intergenerational transmission of human capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *American Economic Review, 95*(1), 437-449.
+* Black, S., Devereux, P., & Salvanes, K. G. (2005). [Why the apple doesn't fall far: Understanding intergenerational transmission of human capital](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0002828053828635). *American Economic Review, 95*(1), 437-449.
 
 **Lightning talks**
 
@@ -41,11 +41,11 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Joint discussion**
 
-* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: the causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
+* Heckman, J., Humphries, J., & Veramendi, G. (2018). [Returns to education: The causal effects of education on earnings, health, and smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(1), 197-246.
 
 **Student contribution**
 
-* Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: a field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
+* Fryer, R., Levitt, S., List, J., & Sadoff, S. (2012). [Enhancing the efficacy of teacher incentives through loss aversion: A field experiment](https://scholar.harvard.edu/files/fryer/files/teacher_incentives_framing_april_2018.pdf). NBER Working Papers 18237, National Bureau of Economic Research, Inc.
 
 **Lightning talks**
 
@@ -55,7 +55,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Joint discussion**
 
-* Esther, D., Dupas, P., & Kremer, M. (2015). [Education, HIV, and early fertility: experimental evidence from Kenya](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20121607). *American Economic Review, 105*(9), 2757-97.
+* Esther, D., Dupas, P., & Kremer, M. (2015). [Education, HIV, and early fertility: Experimental evidence from Kenya](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20121607). *American Economic Review, 105*(9), 2757-97.
 
 **Student contribution**
 
@@ -69,11 +69,11 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Joint discussion**
 
-* Kosse, F., Deckers, T., Pinger, P., Schildberg-Hörisch, H., & Falk, A. (2019). [The Formation of prosociality: Causal evidence on the role of social environment](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/704386). *Journal of Political Economy (forthcoming)*.
+* Kosse, F., Deckers, T., Pinger, P., Schildberg-Hörisch, H., & Falk, A. (2019). [The formation of prosociality: Causal evidence on the role of social environment](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/704386). *Journal of Political Economy (forthcoming)*.
 
 **Student contribution**
 
-* Duflo, E. (2001). [Schooling and labor market consequences of school construction in Indonesia: evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
+* Duflo, E. (2001). [Schooling and labor market consequences of school construction in Indonesia: Evidence from an unusual policy experiment](https://economics.mit.edu/files/726). *American Economic Review, 91*(4), 795-813.
 
 ### Skills and labor market outcomes
 
