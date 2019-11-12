@@ -60,17 +60,17 @@ Please submit your manuscript to Valerie on January 19th. The manuscript cannot 
 
 ## Presentations
 
-We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
+We only meet on the 24th of January in the Faculty Room, U22, entrance Lennéstraße. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
-| **9:30-10:15** | | |
-| **10:15-11:00** | | |
+| **9:30-10:15** | Nicolas Lange, Tim Leffler, Cho Ho Ma | Character traits and social mobility |
+| **10:15-11:00** | Gero Babik, Daniel Lüke | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
-| **11:15-12:00** |  | |
+| **11:15-12:00** | Annica Gehlen, Katja Morawitz | Intergenerational mobility - Effects of parental income and education on schooling decisions of their children |
 | Break |  |  |
-| **13:45-14:30** | | |
-| **14:30-15:15** | | |
+| **13:45-14:30** | Xiaohan Yu, Di Zhang, Linghua Zuo | Life cycle wage growth across the second-generation immigrants in Germany |
+| **14:30-15:15** | Pooja Bansal, Elin Al Zaim | The Effect of cognitive and non cognitive skill on individual wages across different occupations |
 | Break |  |  |
-| **15:30-16:15** | | |
-| **16:15-17:00** | | |
+| **15:30-16:15** | Zuzana Bakusova, David Piazolo, Karoline Woschek | Influence of patience on education |
+| **16:15-17:00** | Irem Turan | The Impact of unions on wages and salaries in US economy when unemployment rate decrease |
