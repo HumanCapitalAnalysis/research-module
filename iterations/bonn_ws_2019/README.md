@@ -102,6 +102,23 @@ Please submit your manuscript to Liudmila on January 18th. The manuscript cannot
 
 Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for some book recommendations that can help you improving the quality of your manuscript and also assist you in the preparation of the presentation.
 
+## Presentations
+
+We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
+
+| Time         | Speakers      | Topic        |
+| ------------ | ------------ | ------------ |
+| **9:30-10:15** | | |
+| **10:15-11:00** | | |
+| Break |  |  |
+| **11:15-12:00** |  | |
+| Break |  |  |
+| **13:45-14:30** | | |
+| **14:30-15:15** | | |
+| Break |  |  |
+| **15:30-16:15** | | |
+| **16:15-17:00** | | |
+
 ### Frequently asked questions
 
 * **Where can I sign up for the weekly student contributions?** The sign-up sheet is available [here](https://docs.google.com/spreadsheets/d/1nY8cZB0ZQ26Q1xlbjVQDpXEsiB9LSB3ouqUvuckvvWU/edit?usp=sharing).
