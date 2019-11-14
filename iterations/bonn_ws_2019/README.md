@@ -102,6 +102,16 @@ Please submit your manuscript to Liudmila on January 18th. The manuscript cannot
 
 Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for some book recommendations that can help you improving the quality of your manuscript and also assist you in the preparation of the presentation.
 
+## Guest Lectures
+
+#### 14/11/19 [MaxBlesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
+
+I am going to do a brief introduction on [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We are gonna explore some basic python tools on data exploration and cleaning. Using these tools I will present the data handling in my Master Thesis on John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
+
+To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
+
+For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
+
 ## Presentations
 
 We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
