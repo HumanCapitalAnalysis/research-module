@@ -104,7 +104,20 @@ Please see [here](https://github.com/HumanCapitalAnalysis/general-resources) for
 
 ## Guest Lectures
 
-#### 14/11/19 [MaxBlesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
+#### 13/11/19 [Sebastian Gsell](https://github.com/segsell) on Introduction to the German Socio-Economic Panel (SOEP) data
+
+I am giving an introduction to the German Socio-Economic Panel (SOEP) including a practical example on how to merge and analyze your data.
+
+First, we will make ourselves familiar with the basic data structure and topics covered in the SOEP questionnaires. The [*SOEP Companion*](http://companion.soep.de/) provides all the resources I will use in class. For more, you can check out the corresponding [Youtube tutorials](https://www.youtube.com/user/SOEPstudie/).
+
+Second, I will show you three ways to browse for topics and to look up variable definitions:
+- [*SOEP Companion*](http://companion.soep.de/Topics%20of%20SOEPcore/index.html)
+- Paneldata.org; Browse variables [by topic](https://paneldata.org/soep-core/topics/en) or [search for variables](https://paneldata.org/search/all) directly
+- [PDF Documentation](https://www.diw.de/en/diw_02.c.222729.en/questionnaires.html)
+
+Finally, we will look into the research question [“Are married people happier than singles?“](http://companion.soep.de/Working%20with%20SOEP%20Data/Longitudinal%20Data%20Analysis.html) and learn some basic STATA and Python codes for working with SOEP data, in particular, how to merge variables from different data sets.
+
+#### 18/11/19 [Max Blesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
 I am going to do a brief introduction on [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We are gonna explore some basic python tools on data exploration and cleaning. Using these tools I will present the data handling in my Master Thesis on John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
 
