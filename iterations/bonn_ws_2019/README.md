@@ -17,7 +17,7 @@ We meet Mondays between 10:15-11:45 in SR 0.042.
 | 04/11/19  | Malleability of skills                                 |
 | 11/11/19  | Skills and labor market outcomes                       |
 | 18/11/19  | Introduction to Data Analysis, NLSY                    |
-| 25/11/19  |                                                        |
+| 25/11/19  | Skill Formation                                        |
 
 ## Reading group
 
