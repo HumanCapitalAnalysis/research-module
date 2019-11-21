@@ -89,7 +89,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Joint discussion**
 
-Cunha, F., & Heckman, J.(2007). [The technology of skill formation](http://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf). *American Economic Review, 97*(2), 31-47.
+* Cunha, F., & Heckman, J. (2007). [The technology of skill formation](http://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf). *American Economic Review, 97*(2), 31-47.
 
 ## Student reports
 
