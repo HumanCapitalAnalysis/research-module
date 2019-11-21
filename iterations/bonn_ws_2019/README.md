@@ -85,6 +85,12 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Drago, F. (2011). [Self-esteem and earnings](http://ftp.iza.org/dp3577.pdf). *Journal of Economic Psychology, 32*(3), 480-488.
 
+### Skill Formation 
+
+**Joint discussion**
+
+Cunha, F., & Heckman, J.(2007). [The technology of skill formation](http://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf). *American Economic Review, 97*(2), 31-47.
+
 ## Student reports
 
 Student summaries of several of the papers discussed in class are available [here](https://github.com/HumanCapitalAnalysis/research-module/tree/master/iterations/bonn_ws_2019/student_materials). Please submit your contributions to [Luis Calderon](https://github.com/EconBeast) directly on [slack](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
