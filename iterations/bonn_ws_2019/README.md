@@ -131,6 +131,10 @@ To prepare for this introduction I highly recommend to read the following [slide
 
 For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
 
+#### 18/11/19 [Benedikt Kauf](https://github.com/bekauf) on the NLSY dataset
+
+I will present an overview of the NLSY dataset including an introduction on how to access the data. I will focus mainly on the NLSY 1979 cohort and include several links to further information at the end of [slides](https://github.com/HumanCapitalAnalysis/research-module/blob/master/guest_lectures/NLSY_intro.pdf).
+
 ## Presentations
 
 We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
