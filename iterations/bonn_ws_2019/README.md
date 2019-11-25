@@ -131,7 +131,7 @@ To prepare for this introduction I highly recommend to read the following [slide
 
 For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
 
-#### 18/11/19 [Benedikt Kauf](https://github.com/bekauf) on the NLSY dataset
+#### 18/11/19 [Benedikt Kauf](https://github.com/bekauf) on the National Longitudinal Survey of Youth (NLSY) data
 
 I will present an overview of the NLSY dataset including an introduction on how to access the data. I will focus mainly on the NLSY 1979 cohort and include several links to further information at the end of [slides](https://github.com/HumanCapitalAnalysis/research-module/blob/master/guest_lectures/NLSY_intro.pdf).
 
