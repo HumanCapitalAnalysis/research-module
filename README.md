@@ -72,7 +72,7 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
 * Zagorsky, J. L., & White, L. (1999). [NLSY79 User’s guide: A guide to the 1979–1998 National Longitudinal Survey of Youth Data](https://www.bls.gov/nls/79guide/2001/nls79g0.pdf). US Department of Labor, Washington, DC.
 
-* McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. O'Reilly Media, Inc., Sebastopol, CA.
+* McKinney, W. (2012). [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1449319793). O'Reilly Media, Inc., Sebastopol, CA.
 
 ## Iterations <a name="iterations"></a>
 
