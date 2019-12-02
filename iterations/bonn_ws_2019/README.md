@@ -93,7 +93,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Lightning talks**
 
-* Braakmann, N. (2009).[The role of psychological traits for the gender gap in full-time employment and wages: evidence from Germany](https://www.aeaweb.org/conference/2011/retrieve.php?pdfid=200). *SOEP Paper, 162*. 
+* Braakmann, N. (2009). [The role of psychological traits for the gender gap in full-time employment and wages: evidence from Germany](https://www.aeaweb.org/conference/2011/retrieve.php?pdfid=200). *SOEP Paper, 162*. 
 
 * Bingley, P., Lundborg, P., & Lyk-Jensen, S. V. (2019). [The opportunity costs of mandatory military service: evidence from a draft lottery](https://www.journals.uchicago.edu/doi/abs/10.1086/704495?af=R). *Journal of Labor Economics*.
 
