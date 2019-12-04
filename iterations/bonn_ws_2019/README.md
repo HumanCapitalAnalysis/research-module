@@ -85,7 +85,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 * Drago, F. (2011). [Self-esteem and earnings](http://ftp.iza.org/dp3577.pdf). *Journal of Economic Psychology, 32*(3), 480-488.
 
-### Skill Formation 
+### Skill Formation
 
 **Joint discussion**
 
@@ -93,7 +93,7 @@ We adopt a reading group approach for this year's seminar. Please see the [cours
 
 **Lightning talks**
 
-* Braakmann, N. (2009). [The role of psychological traits for the gender gap in full-time employment and wages: evidence from Germany](https://www.aeaweb.org/conference/2011/retrieve.php?pdfid=200). *SOEP Paper, 162*. 
+* Braakmann, N. (2009). [The role of psychological traits for the gender gap in full-time employment and wages: evidence from Germany](https://www.aeaweb.org/conference/2011/retrieve.php?pdfid=200). *SOEP Paper, 162*.
 
 * Bingley, P., Lundborg, P., & Lyk-Jensen, S. V. (2019). [The opportunity costs of mandatory military service: evidence from a draft lottery](https://www.journals.uchicago.edu/doi/abs/10.1086/704495?af=R). *Journal of Labor Economics*.
 
@@ -131,11 +131,11 @@ Finally, we will look into the research question [“Are married people happier 
 
 #### 18/11/19 [Max Blesch](https://github.com/MaxBlesch) on [Python Data Analytics](https://giphy.com/gifs/13HgwGsXF0aiGY/html5)
 
-I am going to do a brief introduction on [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We are gonna explore some basic python tools on data exploration and cleaning. Using these tools I will present the data handling in my Master Thesis on John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
+This is a brief introduction to [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). We explore some basic Python tools on data exploration and cleaning. Using these tools we then read and process the data of John Rust's [Optimal replacement of GMC bus engines: An empirical model of Harold Zurcher](https://www.jstor.org/stable/1911259?seq=1#page_scan_tab_contents).
 
-To prepare for this introduction I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_python.pdf) beforehand and to follow the installation instructions contained.
+As preparation for this talk I highly recommend to read the following [slides](https://github.com/HumanCapitalAnalysis/seminar/blob/master/guest_lectures/Introduction_python.pdf) beforehand and carry out the installation instructions contained.
 
-For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain for chapter by chapter notebooks and therefore make a autodidactic learning very easy.
+For students with the aim to fully cover the techniques in [Python for data analysis: Data wrangling with Pandas, NumPy, and IPython](https://www.amazon.de/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) I highly recommend these detailed [Ipython Notebooks](https://github.com/wesm/pydata-book), which contain chapter by chapter coding examples and therefore make a autodidactic learning very easy.
 
 #### 18/11/19 [Benedikt Kauf](https://github.com/bekauf) on the National Longitudinal Survey of Youth (NLSY) data
 
