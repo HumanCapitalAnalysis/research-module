@@ -153,7 +153,7 @@ We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note
 | Lunch break |  |  |
 | **13:45-14:30** | Alexander Schur and Pusai Hu | Non-cognitive skills and well-being: Can personality traits predict health behavior? |
 | **14:30-15:15** | R. Abikeyeva, G.D. Dinçsoy, and S. Verdiyeva | Self-esteem and earnings: The case from Germany |
-| Break |  |  |
+| Coffee Break |  |  |
 | **15:45-16:30** | Tianfeng Qiu | Income, wealth and household risk attitude: An empirical study in Germany |
 | **16:30-17:00** | --- | Discussion and feedback |
 
