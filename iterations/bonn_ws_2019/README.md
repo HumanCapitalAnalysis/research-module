@@ -147,16 +147,15 @@ We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note
 
 | Time         | Speakers      | Topic        |
 | ------------ | ------------ | ------------ |
-| **9:30-10:15** | | |
-| **10:15-11:00** | | |
+| **10:00-10:45** | Luis Calderon and Madina Japakhova | Pro-environmental behavior and generalized trust: A mediation analysis |
+| **11:00-11:45** | Antonia Entorf, Marc Lipfert, and Florian Schoner |  Why are East germans less likely to be in a leadership position? Evidence from the SOEP |
+| **11:45-12:00** | --- | Teaching evaluation |
+| Lunch break |  |  |
+| **13:45-14:30** | Alexander Schur and Pusai Hu | Non-cognitive skills and well-being: Can personality traits predict health behavior? |
+| **14:30-15:15** | R. Abikeyeva, G.D. Dinçsoy, and S. Verdiyeva | Self-esteem and earnings: The case from Germany |
 | Break |  |  |
-| **11:15-12:00** |  | |
-| Break |  |  |
-| **13:45-14:30** | | |
-| **14:30-15:15** | | |
-| Break |  |  |
-| **15:30-16:15** | | |
-| **16:15-17:00** | | |
+| **15:45-16:30** | Tianfeng Qiu | Income, wealth and household risk attitude: An empirical study in Germany |
+| **16:30-17:00** | --- | Discussion and feedback |
 
 ### Frequently asked questions
 
