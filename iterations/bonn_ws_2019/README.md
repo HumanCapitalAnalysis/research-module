@@ -110,7 +110,7 @@ We strongly encourage you to use the framework of an **QAQR** report in preparat
 
 ## Manuscript
 
-Please submit your manuscript to Liudmila on January 18th. The document cannot exceed 18 pages, which includes tables, figures, references, and appendix. There is no need to provide the data or computer programs. We post some book recommendations that can help to improve the quality of your manuscript and also assist you in the preparation of the presentation [here](https://github.com/HumanCapitalAnalysis/general-resources).
+Please submit your manuscript to Liudmila on January 18th. The document cannot exceed 18 pages, which includes tables, figures, references, and appendix. There is no need to provide the data or computer programs. We post some book recommendations that can help to improve the quality of your manuscript and also assist you in the preparation of the presentation [here](https://github.com/HumanCapitalAnalysis/general-resources). When you are in doubt about any other formal requirements, please just consult the general [master thesis guidelines](https://www.vwlpamt.uni-bonn.de/pruefungsamt-en/pdf/master-thesis-style-guide).
 
 ## Guest Lectures
 
