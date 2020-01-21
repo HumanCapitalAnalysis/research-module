@@ -143,9 +143,10 @@ I will present an overview of the NLSY dataset including an introduction on how 
 
 We only meet on the 22nd of January in the BGSE Seminar room, Kaiserstr. 1. Note that the presentations are 45 minutes for each group with 30 minutes presentation and 15 minutes discussion. Please make sure to either bring along your presentations to the event or post them in advance in our chatroom.
 
-| Time         | Speakers      | Topic        |
-| ------------ | ------------ | ------------ |
-| **10:00-10:45** | Luis Calderon and Madina Japakhova | Pro-environmental behavior and generalized trust: A mediation analysis |
+| Time         | Speakers            | Topic        |
+| ------------ | ------------------- | ------------ |
+| **10:00-10:15** | Thomas Dohmen and Philipp Eisenhauer | Welcome |
+| **10:15-11:00** | Luis Calderon and Madina Japakhova | Pro-environmental behavior and generalized trust: A mediation analysis |
 | **11:00-11:45** | Antonia Entorf, Marc Lipfert, and Florian Schoner |  Why are East germans less likely to be in a leadership position? Evidence from the SOEP |
 | **11:45-12:00** | --- | Teaching evaluation |
 | Lunch break |  |  |
